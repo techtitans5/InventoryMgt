@@ -1,4 +1,1 @@
 # InventoryManagementSprint
-
-# new file
-# edit
